@@ -31,18 +31,18 @@ Average:100
 Total:300
 
 -------------------------
-Example Input 2:
-Ray
-106590035
-99
-90
-82
-
-Example Output 2:
-Name:Ray
-ID:106590035
-Average:90
-Total:271
+  Example Input 2:
+  Ray
+  106590035
+  99
+  90
+  82
+  
+  Example Output 2:
+  Name:Ray
+  ID:106590035
+  Average:90
+  Total:271
 
 -------------------------
 Example Input3:  
