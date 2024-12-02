@@ -1,4 +1,4 @@
-# NTUT-Python
+# Computer-Programming-1
 
 ## 相關課程
 國立臺北科技大學 謝東儒教授開設  
