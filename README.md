@@ -9,3 +9,5 @@
 | 01 | [計算總成績及平均](/01/README.md) | [github page](/01) |
 | 02 | [一元二次方程式](/02/README.md) | [github page](/02) |
 | 03 | [數值運算](/03/README.md) | [github page](/03) |
+| 04 | [BMI計算](/04/README.md) | [github page](/04) |
+| 05 | [判斷何種三角形](/05/README.md) | [github page](/05) |
