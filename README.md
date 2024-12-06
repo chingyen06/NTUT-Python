@@ -11,3 +11,4 @@
 | 03 | [數值運算](/03/README.md) | [github page](/03) |
 | 04 | [BMI計算](/04/README.md) | [github page](/04) |
 | 05 | [判斷何種三角形](/05/README.md) | [github page](/05) |
+| 06 | [一元二次方程式](/06/README.md) | [github page](/06) |
