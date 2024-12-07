@@ -12,3 +12,5 @@
 | 04 | [BMI計算](/04/README.md) | [github page](/04) |
 | 05 | [判斷何種三角形](/05/README.md) | [github page](/05) |
 | 06 | [一元二次方程式](/06/README.md) | [github page](/06) |
+| 07 | [最佳資費選擇](/07/README.md) | [github page](/07) |
+| 08 | [衝堂](/08/README.md) | [github page](/08) |
