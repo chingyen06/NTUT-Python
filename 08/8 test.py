@@ -16,7 +16,6 @@ print(times2)
 
 ############################
 
-#
 times3 = sorted(times + times2)
 
 print(times3)
