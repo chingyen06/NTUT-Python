@@ -14,3 +14,5 @@
 | 06 | [一元二次方程式](/06/README.md) | [github page](/06) |
 | 07 | [最佳資費選擇](/07/README.md) | [github page](/07) |
 | 08 | [衝堂](/08/README.md) | [github page](/08) |
+| 09 | [線段覆蓋長度](/09/README.md) | [github page](/09) |
+| 10 | [保齡球](/10/README.md) | [github page](/10) |
