@@ -16,3 +16,8 @@
 | 08 | [衝堂](/08/README.md) | [github page](/08) |
 | 09 | [線段覆蓋長度](/09/README.md) | [github page](/09) |
 | 10 | [保齡球](/10/README.md) | [github page](/10) |
+
+###額外補充
+內容 | 解答 |
+|:--------:|:-------:|
+| [Copy](/copy/README.md) | [github page](/copy)
