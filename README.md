@@ -16,6 +16,8 @@
 | 08 | [衝堂](/08/README.md) | [github page](/08) |
 | 09 | [線段覆蓋長度](/09/README.md) | [github page](/09) |
 | 10 | [保齡球](/10/README.md) | [github page](/10) |
+| == | ===== | ===== |
+| 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
 
 ### 額外補充
 內容 | 解答 |
