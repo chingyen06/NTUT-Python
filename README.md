@@ -18,6 +18,9 @@
 | 10 | [保齡球](/10/README.md) | [github page](/10) |
 | == | ===== | ===== |
 | 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
+| 34 | [朋友相依關係](/34/README.md) | [github page](/34) |
+| 35 | [理想大學](/35/README.md) | [github page](/35) |
+| 36 | [部落旅遊](/36/README.md) | [github page](/36) |
 
 ### 額外補充
 內容 | 解答 |
